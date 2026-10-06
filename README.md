@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sameera Rao
 
-<!--
-**sameerarao-ai/sameerarao-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer based in New Jersey, USA. I'm learning in public and sharing what I build along the way.
 
-Here are some ideas to get you started:
+### Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, Git and the terminal. LLM apps and RAG (retrieval-augmented generation). Agents and evaluation.
+
+### What you'll find here
+
+Small projects and notes from my weekly learning, each explained in plain language.
+
+### Writing
+
+Blog posts on Hashnode (coming soon).
